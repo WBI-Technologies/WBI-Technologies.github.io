@@ -1,3 +1,3 @@
 # WBI TECHNOLOGIES
 
-[Link](https://i.imgur.com/z7kqnKv.png) 
+![Image](src)(https://i.imgur.com/z7kqnKv.png) 
